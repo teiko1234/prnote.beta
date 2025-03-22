@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+school.db
+instance/
+*.pyo
+*.pyd
+*.db
